@@ -3,6 +3,7 @@
 
 /**
  * Add the custom tab
+ * changes
  */
 function my_simple_custom_product_tab( $tabs ) {
 
